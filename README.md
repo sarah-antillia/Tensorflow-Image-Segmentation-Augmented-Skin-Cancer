@@ -390,3 +390,9 @@ Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion
 </pre>
+
+<b>6. ImageMask-Dataset-Skin-Cancer</b><br>
+Toshiyuki Arai @antillia.com
+<pre>
+https://github.com/sarah-antillia/ImageMask-Dataset-Skin-Cancer
+</pre>
